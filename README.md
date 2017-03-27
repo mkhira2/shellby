@@ -1,0 +1,1 @@
+Basic commands using shell scripting. Exploring creating, moving, and deleting files and directories.
